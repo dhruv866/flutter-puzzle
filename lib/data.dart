@@ -1,0 +1,1 @@
+List<String> gamesdata = List.generate(6, (index) => 'assets/images/games/game${index}.png');
