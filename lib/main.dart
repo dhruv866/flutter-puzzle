@@ -10,7 +10,7 @@ import 'package:puzzle_game/screens/start_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
+  // WidgetsFlutterBinding.ensureInitialized();
   runApp(
     MultiProvider(
       providers: [
